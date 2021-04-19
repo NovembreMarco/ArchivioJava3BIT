@@ -13,9 +13,9 @@ public class Sneaker {
     private String modello;
     private String colore;
     private float prezzo;
-    private int quantità;
+    private int quantita;
 
-public Sneaker(String codice, float taglia, String marca, String modello, String colore, float prezzo, int quantità){
+public Sneaker(String codice, float taglia, String marca, String modello, String colore, float prezzo, int quantita){
 
 }
     
