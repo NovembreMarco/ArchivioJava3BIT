@@ -1,0 +1,5 @@
+codice,23.0,dsa,dasd,das,23.0,23
+codice,23.0,dsd,dsd,dsd,23.0,23
+codice,40.0,nike,air force,blu,100.0,1
+codice,40.0,Adidas,Continental 80,arancione,120.0,3
+codice,39.0,n,s,verde,35.0,3
